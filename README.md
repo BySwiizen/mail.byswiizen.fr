@@ -3,6 +3,6 @@
 
 ## Useful link
 + [Issues](https://github.com/BySwiizen/mail.byswiizen.fr/issues)
-+ 
+
 ## Author
 + **BySwiizen** (Creator)
